@@ -1,4 +1,8 @@
-![image](https://github.com/wesleydmscn-docs/fcc-project-euler/assets/124368605/f91cfaef-b0b5-4d33-8fbe-f7b0774feefc)
+<div align="center">
+  <img src="https://github.com/wesleydmscn-docs/fcc-project-euler/assets/124368605/538abd5c-f12e-49a3-bd60-4705a6855410" />
+</div>
+
+---
 
 These problems range in difficulty and, for many, the experience is inductive chain learning.
 That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. 
